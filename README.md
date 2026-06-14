@@ -71,22 +71,27 @@ Q1 → Day name from orders
  
 
 Q2 → Month name from signup date  
-image  
+<img width="670" height="159" alt="Screenshot 2026-06-14 111913" src="https://github.com/user-attachments/assets/4ad64efc-4385-466d-a583-2d8bef56f8a9" />
+
 
 Q3 → Month number from sales  
-image  
+<img width="550" height="155" alt="Screenshot 2026-06-14 112324" src="https://github.com/user-attachments/assets/32126f76-9831-4a14-96ef-f1d4d89a2bdb" />
+  
 
 Q4 → Year from transactions  
-image  
+<img width="657" height="156" alt="Screenshot 2026-06-14 112353" src="https://github.com/user-attachments/assets/2c2030ae-63cb-423a-a9e6-d74c23250e56" />
+ 
 
 Q5 → Day of month from deliveries  
-image  
+<img width="614" height="167" alt="Screenshot 2026-06-14 112840" src="https://github.com/user-attachments/assets/4b7ca80b-cf76-48a5-9701-f80fbe900caa" />
+
 
 ---
 
 ### Convert & Calculate Dates  
 Q6 → Current date added to employees  
-image  
+![Uploading Screenshot 2026-06-14 112840.png…]()
+ 
 
 Q7 → Convert text to date  
 image  
