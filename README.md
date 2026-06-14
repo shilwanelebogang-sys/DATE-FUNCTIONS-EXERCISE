@@ -90,62 +90,80 @@ Q5 → Day of month from deliveries
 
 ### Convert & Calculate Dates  
 Q6 → Current date added to employees  
-![Uploading Screenshot 2026-06-14 112840.png…]()
- 
+<img width="620" height="160" alt="Screenshot 2026-06-14 113905" src="https://github.com/user-attachments/assets/226a4033-1ed8-47b3-85b3-767331ad4cd2" />
+
 
 Q7 → Convert text to date  
-image  
+<img width="591" height="158" alt="Screenshot 2026-06-14 115324" src="https://github.com/user-attachments/assets/32ef3d87-9ee8-4778-9cff-36835a7959fc" />
+
 
 Q8 → Format date as text  
-image  
+<img width="696" height="160" alt="Screenshot 2026-06-14 120856" src="https://github.com/user-attachments/assets/a262197b-1834-4f98-8ff3-cdca19092d29" />
+  
 
 Q9 → Days since last purchase  
-image  
+<img width="725" height="159" alt="Screenshot 2026-06-14 123002" src="https://github.com/user-attachments/assets/be7faf84-490b-4157-9d68-d3ddc78b2947" />
+ 
 
 Q10 → Expected delivery date  
-image  
+<img width="630" height="165" alt="Screenshot 2026-06-14 123021" src="https://github.com/user-attachments/assets/ca81e65e-81ee-467c-ac91-328ac4a110e8" />
+  
 
 ---
 
 ### Filtering & Date Logic  
 Q11 → Extract year, month, day  
-image  
+<img width="911" height="160" alt="Screenshot 2026-06-14 123054" src="https://github.com/user-attachments/assets/844485f5-c0d9-4a0b-8f7e-ac7ede82065c" />
+
+ 
 
 Q12 → Filter orders from 2026  
-image  
+<img width="671" height="85" alt="Screenshot 2026-06-14 123936" src="https://github.com/user-attachments/assets/2e733a79-2774-4ca9-910e-691b7480ef3d" />
+
 
 Q13 → Filter orders from March  
-image  
+<img width="690" height="82" alt="Screenshot 2026-06-14 124249" src="https://github.com/user-attachments/assets/d61f3620-6b08-4aaa-8182-31f0edcd3c25" />
+
 
 Q14 → Last day of the month  
-image  
+<img width="632" height="165" alt="Screenshot 2026-06-14 133406" src="https://github.com/user-attachments/assets/28c26151-6ad7-4851-9105-67b780faf04f" />
+ 
 
 Q15 → First day of the month  
-image  
+<img width="626" height="164" alt="Screenshot 2026-06-14 134520" src="https://github.com/user-attachments/assets/2e5bc70b-9414-4757-9388-448175a75eea" />
+
 
 ---
 
 ### Advanced Date Analysis  
 Q16 → Format month and year  
-image  
+<img width="635" height="166" alt="Screenshot 2026-06-14 135412" src="https://github.com/user-attachments/assets/8706a08d-2e98-4a38-bba1-41e5c715aabc" />
+
 
 Q17 → Customer age calculation  
-image  
+<img width="638" height="160" alt="Screenshot 2026-06-14 144417" src="https://github.com/user-attachments/assets/6e3dd891-04f2-4f72-96d5-2b0c5e45c5f7" />
+ 
 
 Q18 → Weekend vs weekday classification  
-image  
+<img width="682" height="155" alt="Screenshot 2026-06-14 150656" src="https://github.com/user-attachments/assets/6981e20d-cfff-4724-95d0-b8951b72085f" />
+
 
 Q19 → Transactions by quarter  
-image  
+<img width="786" height="161" alt="Screenshot 2026-06-14 150946" src="https://github.com/user-attachments/assets/a1e1e953-586b-4fa9-97c9-07e93de75241" />
+
+
 
 Q20 → Orders older than 30 days  
-image  
+<img width="711" height="137" alt="Screenshot 2026-06-14 152037" src="https://github.com/user-attachments/assets/4e3a9155-ed2e-4cd6-91ab-10f61369d3fd" />
+
+ 
 
 ---
 
 ### Bonus  
 Q21 → Customer recency segmentation  
-image  
+<img width="885" height="160" alt="Screenshot 2026-06-14 154507" src="https://github.com/user-attachments/assets/c30e5e36-3148-4101-937a-a6bc6a852c40" />
+
 
 ---
 
