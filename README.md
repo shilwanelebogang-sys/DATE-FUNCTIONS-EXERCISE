@@ -60,9 +60,10 @@ The exercise is structured into 4 sections:
 
 ---
 
-## 📂 Exercise Structure  
+#### 📂 Exercise Structure
+## 📊 Query Outputs (Screenshots)
 
-The exercise uses multiple tables such as:
+Below are outputs from the SQL queries executed in Databricks:
 
 - Orders  
 - Customer Signups  
