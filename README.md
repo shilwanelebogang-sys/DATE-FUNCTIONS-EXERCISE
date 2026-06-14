@@ -10,9 +10,7 @@ Hi, I'm **Lebogang Shilwane**, a data-focused professional building practical sk
 ---
 
 ## 📌 Exercise Overview  
-This exercise demonstrates the use of **SQL date functions** to extract, transform, and analyse date-based data in different business scenarios.  
-
-⚠️ **Note:** This is a **practice exercise**, not a full project.  
+This exercise demonstrates the use of **SQL date functions** to extract, transform, and analyse date-based data in different business scenarios.    
 
 The dataset includes multiple small tables, each designed to test a specific date function concept.
 
