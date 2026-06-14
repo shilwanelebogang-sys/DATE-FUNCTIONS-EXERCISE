@@ -65,24 +65,82 @@ The exercise is structured into 4 sections:
 
 Below are outputs from the SQL queries executed in Databricks:
 
-- Orders  
-- Customer Signups  
-- Sales  
-- Transactions  
-- Deliveries  
-- Employees  
-- Online Orders  
-- Payments  
-- Customer Purchases  
-- Shipping Orders  
-- Bookings  
-- Subscriptions  
-- Campaign Sends  
-- Invoice Dates  
-- Customer Birthdays  
-- And more...  
+### Extract Date Functions  
+Q1 → Day name from orders  
+<img width="560" height="160" alt="Screenshot 2026-06-14 111717" src="https://github.com/user-attachments/assets/45bb59e2-c1c4-4c99-99ca-e60f177d5a9e" />
+ 
 
-Each table represents a **real-world business scenario** involving dates.
+Q2 → Month name from signup date  
+image  
+
+Q3 → Month number from sales  
+image  
+
+Q4 → Year from transactions  
+image  
+
+Q5 → Day of month from deliveries  
+image  
+
+---
+
+### Convert & Calculate Dates  
+Q6 → Current date added to employees  
+image  
+
+Q7 → Convert text to date  
+image  
+
+Q8 → Format date as text  
+image  
+
+Q9 → Days since last purchase  
+image  
+
+Q10 → Expected delivery date  
+image  
+
+---
+
+### Filtering & Date Logic  
+Q11 → Extract year, month, day  
+image  
+
+Q12 → Filter orders from 2026  
+image  
+
+Q13 → Filter orders from March  
+image  
+
+Q14 → Last day of the month  
+image  
+
+Q15 → First day of the month  
+image  
+
+---
+
+### Advanced Date Analysis  
+Q16 → Format month and year  
+image  
+
+Q17 → Customer age calculation  
+image  
+
+Q18 → Weekend vs weekday classification  
+image  
+
+Q19 → Transactions by quarter  
+image  
+
+Q20 → Orders older than 30 days  
+image  
+
+---
+
+### Bonus  
+Q21 → Customer recency segmentation  
+image  
 
 ---
 
