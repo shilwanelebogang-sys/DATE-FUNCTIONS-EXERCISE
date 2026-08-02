@@ -1,22 +1,22 @@
-# 📅 SQL Date Functions Exercise
+# SQL Date Functions Exercise
 
-## 👤 About Me  
+## About Me  
 Hi, I'm **Lebogang Shilwane**, a data-focused professional building practical skills in SQL, data analysis, and reporting.  
 
-💻 SQL Environment: Databricks SQL (Apache Spark)  
-📊 Focus: Data Analysis, Reporting & Business Insights  
-🚀 Goal: Data Analyst / BI role  
+SQL Environment: Databricks SQL (Apache Spark)  
+Focus: Data Analysis, Reporting & Business Insights  
+Goal: Data Analyst / BI role  
 
 ---
 
-## 📌 Exercise Overview  
+## Exercise Overview  
 This exercise demonstrates the use of **SQL date functions** to extract, transform, and analyse date-based data in different business scenarios.    
 
 The dataset includes multiple small tables, each designed to test a specific date function concept.
 
 ---
 
-## 🎯 Objective  
+## Objective  
 To understand and apply key SQL date operations such as:  
 
 - Extracting date parts (day, month, year)  
@@ -29,21 +29,21 @@ To understand and apply key SQL date operations such as:
 
 ---
 
-## 🧠 Key Skills Demonstrated  
+## Key Skills Demonstrated  
 
-✅ Extracting date components using `DAY`, `MONTH`, `YEAR`  
-✅ Using `DAYNAME()` and `MONTHNAME()`  
-✅ Converting text to date using `TO_DATE()`  
-✅ Formatting dates using `DATE_FORMAT()` / `TO_CHAR()`  
-✅ Calculating date differences with `DATEDIFF()`  
-✅ Adding days to dates (date arithmetic)  
-✅ Using `DATE_TRUNC()` and `LAST_DAY()`  
-✅ Applying conditional logic with `CASE`  
-✅ Writing clean, well-structured SQL queries  
+- Extracting date components using `DAY`, `MONTH`, `YEAR`
+- Using `DAYNAME()` and `MONTHNAME()`
+- Converting text to date using `TO_DATE()`
+- Formatting dates using `DATE_FORMAT()` / `TO_CHAR()`
+- Calculating date differences with `DATEDIFF()`
+- Adding days to dates (date arithmetic)
+- Using `DATE_TRUNC()` and `LAST_DAY()`
+- Applying conditional logic with `CASE`
+- Writing clean, well-structured SQL queries  
 
 ---
 
-## 🧩 Problem Approach  
+## Problem Approach  
 
 The exercise is structured into 4 sections:
 
@@ -58,8 +58,8 @@ The exercise is structured into 4 sections:
 
 ---
 
-#### 📂 Exercise Structure
-## 📊 Query Outputs (Screenshots)
+#### Exercise Structure
+## Query Outputs (Screenshots)
 
 Below are outputs from the SQL queries executed in Databricks:
 
@@ -165,9 +165,9 @@ Q21 → Customer recency segmentation
 
 ---
 
-## 🔍 Key Concepts  
+## Key Concepts  
 
-### ✅ Date Extraction  
+### Date Extraction  
 Used to break down a date into meaningful parts:
 ```sql
 SELECT  DAY(order_date),
@@ -175,14 +175,14 @@ SELECT  DAY(order_date),
         YEAR(order_date)
 FROM orders;
 ```
-###✅ Date Formatting
+### Date Formatting
 Convert date into readable text:
 ```sql
 SELECT DATE_FORMAT(payment_date, 'yyyy-MM-dd')
 FROM payment_dates;
 ```
 
-###✅ Date Difference
+### Date Difference
 Calculate time differences between dates:
 ```sql
 SELECT  DATEDIFF(CURRENT_DATE(),
@@ -190,13 +190,13 @@ SELECT  DATEDIFF(CURRENT_DATE(),
 FROM customer_purchases;
 ```
 
-###✅ Date Filtering
+### Date Filtering
 Filter data based on year or month:
 ```sql
 WHERE YEAR(order_date) = 2026
 ```
 
-###✅ Conditional Date Logic
+### Conditional Date Logic
 Using CASE with dates:
 ```sql
 CASE     
@@ -206,7 +206,7 @@ CASE
 
 ---
 
-##⚠️ Important Observations
+## Important Observations
 The dataset includes realistic scenarios such as:
 
 - Some customers have older purchase dates
@@ -216,18 +216,18 @@ The dataset includes realistic scenarios such as:
 
 ---
 
-## 🚀 Business Value
+## Business Value
 This exercise reflects real-world use cases such as:
 
-- 📊 Customer activity tracking
-- 📈 Purchase and retention analysis
-- 📦 Delivery and logistics planning
-- 📅 Time-based reporting
-- 🧾 Data transformation and cleaning
+- Customer activity tracking
+- Purchase and retention analysis
+- Delivery and logistics planning
+- Time-based reporting
+- Data transformation and cleaning
 
 ---
 
-## 📝 Bonus Insight
+## Bonus Insight
 
 - Date functions are critical in every data analysis role
 - Most business questions involve time-based metrics
@@ -236,10 +236,10 @@ This exercise reflects real-world use cases such as:
 
 --
 
-## ✅ Conclusion
+## Conclusion
 
-- ✔ Date functions help extract meaningful insights from time-based data
-- ✔ DATEDIFF enables performance and recency analysis
-- ✔ DATE_TRUNC and LAST_DAY simplify time grouping
-- ✔ CASE + dates allows powerful business classification
+- Date functions help extract meaningful insights from time-based data
+- DATEDIFF enables performance and recency analysis
+- DATE_TRUNC and LAST_DAY simplify time grouping
+- CASE + dates allows powerful business classification
 
